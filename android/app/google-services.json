@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "527125362188",
+    "project_id": "homeswisshome-301de",
+    "storage_bucket": "homeswisshome-301de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527125362188:android:a82b3911350b2d1df26029",
+        "android_client_info": {
+          "package_name": "com.homeswisshome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527125362188-hr12cduf18cttstf9ukflvn15lucrrvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homeswisshome",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "527125362188-npsntnbjl5hjn0mshp0cdum70q3m14l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDloedBzGe2CiTkRcIcpoAK0DPHRfNFq20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527125362188-npsntnbjl5hjn0mshp0cdum70q3m14l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527125362188-so9pl0915pn6u589khgfjtu0078306ll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vrinsoft.GeneralApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
